@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(pnpm --version)",
+      "Bash(npx --version)",
+      "WebSearch",
+      "Read(//home/gozen/code/**)",
+      "Bash(npx create-next-app@latest cc-demo --typescript --tailwind --eslint --app --src-dir --no-turbopack --import-alias \"@/*\")"
+    ]
+  }
+}
